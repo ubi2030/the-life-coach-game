@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0 5vw;
+    background-color: darkgray;
+}
+
+div {
+    color: rgb(9, 12, 190);
+}
+
+@media (max-width: 650px)  {
+    html {
+        background-color: green
+    }
+  }
+
+#stick-figure {
+    width: 300px;  
+}
